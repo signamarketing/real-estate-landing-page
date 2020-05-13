@@ -44,7 +44,7 @@
 <div class="full-width-banner-subheading-box">
 
 <!-- mainly for positioning & constricting width of text -->
-<p class="full-width-banner-subheading-text">Find out how much your home is worth with our Free Home Price Valuation!</p>
+<p class="full-width-banner-subheading-text">Schedule your free consultation to learn how we can save you thousands on commission with our famous Flat Fee!</p>
 <p class="full-width-banner-subheading-text-3" style="font-size: 27px;">Home of the Flat $3950* Special</p>
 
 <div class="col-12"><?php echo do_shortcode('[popup_trigger id="225" class="popup-lightbox-btn btn-lp-3" tag="button"]Request Free Consultation[/popup_trigger]'); ?></div>
