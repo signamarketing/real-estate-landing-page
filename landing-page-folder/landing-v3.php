@@ -1,0 +1,208 @@
+<!-- 
+    Template Name: Landing Page 3 
+-->
+<!DOCTYPE html>
+<html style="margin-top:0px !important;">
+<head>
+    <title>Sell Your Home Now with Flat Fee Team AZ</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <?php get_header(); ?>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap-grid.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="/wp-content/themes/oceanwp/landing-page-folder/landing.css" crossorigin="anonymous"><!-- Make sure this path is correct IT WILL CHANGE -->
+    <link href="https://fonts.googleapis.com/css?family=Heebo:300,400,700,800,900" rel="stylesheet">
+    <script src="https://use.fontawesome.com/52dda3483b.js"></script>
+
+    
+</head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52QZPFF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+    <header id="plain-header" class="header-background container-fluid">
+            <div class="row" style="    max-width: 1140px; width: 100%; float: none; margin: auto;">
+    
+                <div class="col-12 col-sm-6">
+                    <a href="https://flatfeeteamaz.com/" alt="Flat Fee Team website">
+                        <img class="header-logo" alt="" title="" src="/wp-content/themes/oceanwp/landing-page-folder/img/flat-fee-team-az-logo-min.png">
+                        <img class="header-logo-2" alt="" title="" src="/wp-content/themes/oceanwp/landing-page-folder/img/MHG-LOGO-no-effects.png">
+                    </a>
+                </div>
+                <div class="col-12 col-sm-6 header-phone-number"><a href="tel:4802002914" id="header-phone-number-text">Questions? Call Now <span>(480) 200-2914</span></a></div>
+            </div>
+    </header>
+    <!-- START OF CONTENT -->
+<div class="full-width-banner-container">
+<div class="full-width-banner-row">
+<div class="full-width-banner-box">
+<h1 class="full-width-banner-heading">Ready To Sell Your Arizona Home?</h1>
+<div class="full-width-banner-subheading-box">
+
+<!-- mainly for positioning & constricting width of text -->
+<p class="full-width-banner-subheading-text">Find out how much your home is worth with our Free Home Price Valuation!</p>
+<p class="full-width-banner-subheading-text-3" style="font-size: 27px;">Home of the Flat $3950* Special</p>
+
+<div class="col-12"><?php echo do_shortcode('[popup_trigger id="225" class="popup-lightbox-btn btn-lp-3" tag="button"]Request Free Consultation[/popup_trigger]'); ?></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Column with icon above -->
+<div class="container-fluid">
+<div class="container">
+<div class="row testimonials ">
+<div class="col-12 full-width-banner-subheading-text-2">
+<p class="" style="margin-top: 40px; text-align: center;">Sell Your Home For $3950*</p>
+<p style="text-align: center; margin-top: 10px; margin-bottom: 10px;">Meet The Flat Fee Team</p>
+
+</div>
+<div class="col-md-8 col-md-offset-3" style="margin: auto;"><iframe id="vimeo-player-1" src="https://www.youtube.com/embed/4ywYH2-3YaI" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen" data-progress="”true”" data-seek="”true”" data-bounce="”false”"></iframe></div>
+<div class="col-12 col-sm-12">
+<h2>Testimonials</h2>
+</div>
+<div class="col-md-6 testimonial-column">
+<p class="testimonial-column-text">"I was extremely fortunate to have met Cindy and Michael and had their expertise as my realtors when I was looking for a condo in Phoenix. Cindy and Michael are nothing short of amazing. They kept me constantly updated and I never had to run after them as I had with previous realtors!"</p>
+
+<div class="testimonial-person">
+
+<img src="/wp-content/themes/oceanwp/landing-page-folder/img/testimonial-1.png">
+
+- Ellie Harris
+
+</div>
+</div>
+<div class="col-md-6 testimonial-column">
+<p class="testimonial-column-text">"Cindy Valadez was a perfect match for us! She is extremely well-versed and connected in the industry. There was never a fear of the unknown with Cindy as our agent nor the process. As first time home buyers, she made the process easy and fun for us. We thank you again, Cindy!!"</p>
+
+<div class="testimonial-person">
+
+<img src="/wp-content/themes/oceanwp/landing-page-folder/img/testimonial-placeholder.jpg">
+
+- Lisa Charisse
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid">
+<div class="row content-area-1">
+<div class="col-md-6 ca1-column ca1-bg">&nbsp;</div>
+<div class="col-md-6 ca1-column ca1-bg-2">
+<div class="ca1-text">
+<h2>Selling your home can be easy.</h2>
+<p style="font-style: italic; font-weight: bold; margin-bottom: 15px; margin-top: 0px; line-height: 1.3;">Let our experienced realtors help you make it happen!</p>
+Sell Your Home For $3950* - At the Flat Fee Team, it’s your home, your equity, you keep more.
+
+</div>
+<div class="ca1-text">
+<h2 style="margin-top: 0px;">Benefits</h2>
+<div class="check-list"><i class="fa fa-check" aria-hidden="true"></i>
+ 	<li>All the normal services of a traditional agent
+(excellent representation, professional photos, yard signs, lock boxes, scheduling showings, marketing and advertising.)</li>
+</div>
+<div class="check-list"><i class="fa fa-check" aria-hidden="true"></i>
+ 	<li>Your home is listed on the MLS, which syndicates your home onto thousands of websites including Zillow, Trulia and Realtor.com.</li>
+</div>
+<div class="check-list"><i class="fa fa-check" aria-hidden="true"></i>
+ 	<li>And of course all of this for the flat rate of $3950*!</li>
+</div>
+</div>
+<div class="tx-center top-space-margin-1" style="clear: both; margin-bottom: 40px;"><?php echo do_shortcode('[popup_trigger id="225" class="popup-lightbox-btn" tag="button"]Request Free Consultation[/popup_trigger]');?></div>
+</div>
+</div>
+</div>
+<div class="container-fluid">
+<div class="container">
+<div class="row content-area-2">
+<h2>With the Flat Fee Team, you get more than just an Agent.</h2>
+<p style="font-weight:400;">Our team leaders, Michael and Cindy, stay with you, helping you understand inspections, contracts, negotiating offers and closing. You don’t get handed over to a hourly “transaction manager” with our team.
+
+A traditional listing agent might charge you a 3% commission for all those services. On a $500,000 home sale, that adds up to $15,000! We offer the same service for only $3,950*!
+(*1% listing fee to apply of homes listed over $500k)</p>
+
+
+<?php // echo do_shortcode('[8b_home_value]'); ?>
+
+</div>
+</div>
+</div>
+<div class="container-fluid">
+<div class="container">
+<div class="row content-area-3">
+<div class="col-sm-6 col-md-6 col-lg-4 ca3-col">
+<div class="panel-with-overlay" style="background: url('/wp-content/themes/oceanwp/landing-page-folder/img/sold-house-1-min.jpg'); background-size: cover;">
+<div class="panel-overlay">
+<p class="panel-overlay-text">SOLD</p>
+
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-md-6 col-lg-4 ca3-col">
+<div class="panel-with-overlay" style="background: url('/wp-content/themes/oceanwp/landing-page-folder/img/sold-house-5-min.jpg'); background-size: cover;">
+<div class="panel-overlay">
+<p class="panel-overlay-text">SOLD</p>
+
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-md-6 col-lg-4 ca3-col">
+<div class="panel-with-overlay" style="background: url('/wp-content/themes/oceanwp/landing-page-folder/img/sold-house-6-min.jpg'); background-size: cover;">
+<div class="panel-overlay">
+<p class="panel-overlay-text">SOLD</p>
+
+</div>
+</div>
+</div>
+</div>
+<div class="col-12 content-area-2" style="padding-bottom: 0;">
+
+&nbsp;
+<h2>Meet The Team</h2>
+<img style="width: 331px; -webkit-box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.4); -moz-box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.4); box-shadow: 5px 5px 6px 0px rgba(0,0,0,0.4);" src="/wp-content/themes/oceanwp/landing-page-folder/img/flat-fee-team-az-team-photo.jpg">
+
+</div>
+</div>
+</div>
+<div id="cta-row-1" class="container-fluid" style="padding-top: 48px;">
+<div class="container">
+<div class="row">
+<div class="col-12"><a class="cta-btn-1" href="tel:4802002914">Ready to sell your home? <span style="font-weight: 800;">Call Now </span><span class="cta-btn-1-span">(480) 200-2914</span></a></div>
+</div>
+</div>
+</div>
+<div id="footer" class="container-fluid" style="background-color: #151515; text-align: center;">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<p class="footer-logo"><a href="/"><img src="/wp-content/themes/oceanwp/landing-page-folder/img/13d134fd.png" alt="Flat Fee Team Logo"></a></p>
+<p class="contact">Contact:&nbsp;<a href="tel:4802002914">480.200.2914</a></p>
+<p class="email"><a href="mailto:michael@flatfeeteamaz.com" target="_blank" rel="noopener noreferrer">Michael@flatfeeteamaz.com</a>&nbsp;| &nbsp;<a href="mailto:cindy@flatfeeteamaz.com" target="_blank" rel="noopener noreferrer">Cindy@flatfeeteamaz.com</a></p>
+<p class="address">8360 E Raintree Suite #205&nbsp;Scottsdale, AZ 85260</p>
+<p class="contact">*Broker co-op may apply</p>
+<p class="footer-img"><img style="height: 57px; width: 300px;" src="/wp-content/themes/oceanwp/landing-page-folder/img/14c8981f.png" alt=""></p>
+
+</div>
+</div>
+</div>
+</div>
+<div id="copyright" class="container-fluid" style="text-align: center;">
+<div class="row">
+<div class="col-12">Flat Fee Team AZ © Copyright 2017.</div>
+</div>
+</div>
+
+ <?php get_footer();?>
+
+    <!-- END OF CONTENT -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script> -->
+    <script src="/wp-content/themes/oceanwp/landing-page-folder/js/vimeo.ga.min.js"></script>
+    
+</body>
+
+</html>

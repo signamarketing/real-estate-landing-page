@@ -1,7 +1,7 @@
 .elementor-location-footer, header.page-header, div#site-header-sticky-wrapper, #top-bar-wrap, .elementor-location-footer  {
  //   display: none !important;
 }
-header.page-header, .elementor-location-footer {display:none;}
+.header.page-header,.elementor-location-footer  {display:none;}
 @-ms-viewport {
     width: device-width;
   }
