@@ -10,11 +10,10 @@
 
     <?php get_header(); ?>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap-grid.css" crossorigin="anonymous">
-    <link rel="stylesheet" href="/wp-content/themes/oceanwp/landing-page-folder/landing.css" crossorigin="anonymous"><!-- Make sure this path is correct IT WILL CHANGE -->
-    <link href="https://fonts.googleapis.com/css?family=Heebo:300,400,700,800,900" rel="stylesheet">
-    <script src="https://use.fontawesome.com/52dda3483b.js"></script>
-
+    <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap-grid.css" crossorigin="anonymous">
+    <link rel="preload" href="/wp-content/themes/oceanwp/landing-page-folder/landing.css" crossorigin="anonymous"><!-- Make sure this path is correct IT WILL CHANGE -->
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Heebo:300,400,700,800,900" >
+    <script async src="https://use.fontawesome.com/52dda3483b.js"></script>
     
 </head>
 
@@ -201,7 +200,7 @@ A traditional listing agent might charge you a 3% commission for all those servi
 
     <!-- END OF CONTENT -->
     <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script> -->
-    <script src="/wp-content/themes/oceanwp/landing-page-folder/js/vimeo.ga.min.js"></script>
+    <!-- <script src="/wp-content/themes/oceanwp/landing-page-folder/js/vimeo.ga.min.js"></script> -->
     
 </body>
 
