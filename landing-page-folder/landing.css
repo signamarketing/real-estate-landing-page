@@ -223,9 +223,12 @@ a#header-phone-number-text {font-size: 18px;}
     font-size: 41px;
     margin: 67px 0 5px;
 }
-.col-md-6.testimonial-column {
-    padding: 0 46px;
+@media(min-width:768px){
+    .col-md-6.testimonial-column {
+        padding: 0 46px;
+    }
 }
+
 p.testimonial-column-text {
     font-weight: 300;
     font-size: 21px;
