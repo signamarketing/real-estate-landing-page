@@ -173,7 +173,7 @@ p.full-width-banner-subheading-text {
 #plain-header .col-sm-12 {text-align: center;}
 .header-phone-number {text-align: center;}
 .header-logo {display: block; margin: auto; width: 50%;}
-.header-logo-2 {display: inline-block; margin: auto; width: 47%;}
+.header-logo-2 {display: block; margin: auto; width: 47%;}
 /* a#header-phone-number-text {font-size: 22px;} */
 #header-phone-number-text span { display: block;}
 a#header-phone-number-text {font-size: 18px;}

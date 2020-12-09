@@ -22,7 +22,7 @@
   <!-- ANALYTICS GOES HERE -->
   <!-- End Google Tag Manager (noscript) -->
 
-  <title>Sell Your Home Now with [BUSINESS NAME]</title>
+  <title>Sell Your Home Now with Flat Fee Team AZ</title>
 
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
 
@@ -44,6 +44,11 @@
 
 <body <?php body_class(); ?>>
 
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52QZPFF"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
 <div id="page" class="site">
 
 <header id="plain-header" class="header-background container-fluid">
@@ -56,13 +61,13 @@
 
                         <img class="header-logo" alt="" title="" src="/wp-content/themes/twentytwenty/landing-page-folder/img/logo-min.png">
 
-                        <!-- <img class="header-logo-2" alt="" title="" src="/wp-content/themes/twentytwenty/landing-page-folder/img/MHG-LOGO-no-effects.png"> -->
+                        <img class="header-logo-2" alt="" title="" src="/wp-content/themes/twentytwenty/landing-page-folder/img/MHG-LOGO-no-effects.png">
 
                     </a>
 
                 </div>
 
-                <div class="col-12 col-sm-6 header-phone-number"><a href="tel:[PHONE]" id="header-phone-number-text">Questions? Call Now <span>[PHONE]</span></a></div>
+                <div class="col-12 col-sm-6 header-phone-number"><a href="tel:(480) 200-2914" id="header-phone-number-text">Questions? Call Now <span>(480) 200-2914</span></a></div>
 
             </div>
 

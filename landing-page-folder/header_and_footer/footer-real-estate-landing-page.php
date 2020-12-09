@@ -20,12 +20,12 @@
         <div class="container">
         <div class="row">
         <div class="col-12 text-center">
-        <p class="footer-logo"><a href="/"><img src="/wp-content/themes/twentytwenty/landing-page-folder/img/logo-min.png" alt="Signa Marketing Logo" /></a></p>
-        <p class="contact">Contact: <a href="tel:[PHONE]">[PHONE]</a></p>
-        <p class="email"><a href="mailto:info@signamarketing.com" target="_blank">[EMAIL]</a></p>
-        <p class="address">[1201 E Jefferson St #4, Phoenix, AZ 85034]</p>
+        <p class="footer-logo"><a href="/"><img style="margin:auto;" src="/wp-content/themes/twentytwenty/landing-page-folder/img/logo-min.png" alt="Signa Marketing Logo" /></a></p>
+        <p class="contact">Contact: <a href="tel:(480) 200-2914">(480) 200-2914</a></p>
+        <p class="email"><a href="mailto:michael@flatfeeteamaz.com" target="_blank" rel="noopener noreferrer">Michael@flatfeeteamaz.com</a>&nbsp;|&nbsp;<a href="mailto:cindy@flatfeeteamaz.com" target="_blank" rel="noopener noreferrer">Cindy@flatfeeteamaz.com</a></p>
+        <p class="address">8360 E Raintree Suite #205&nbsp;Scottsdale, AZ 85260</p>
         <P class="contact">*Broker co-op may apply</p>
-        <!-- <p class="footer-img"><img style="height: 57px; width: 300px;" src="/wp-content/themes/twentytwenty/landing-page-folder/img/14c8981f.png" alt="" /></p> -->
+        <p class="footer-img"><img style="height: 57px; width: 300px; margin:auto;" src="/wp-content/themes/twentytwenty/landing-page-folder/img/14c8981f.png" alt="" /></p>
         
         </div>
         </div>
@@ -33,7 +33,7 @@
         </div>
         <div id="copyright" class="container-fluid" style="text-align: center;">
         <div class="row">
-        <div class="col-12">[BUSINESS NAME] © Copyright <?php echo date("Y"); ?></div>
+        <div class="col-12">Flat Fee Team AZ © Copyright <?php echo date("Y"); ?></div>
         </div>
         </div>
 	</footer><!-- #colophon -->

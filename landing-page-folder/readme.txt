@@ -17,11 +17,11 @@ Step 6: All File Paths should be updated
 - Simply search all and replace "twentynineteen" with the name of the client's theme folder
 
 Step 7: Replace Placeholder "shortcodes" with company information
-- Use search ALL and replace these strings: [MAIN-URL], [PHONE], [EMAIL], [BUSINESS NAME]
+- Use search ALL and replace these strings: [MAIN-URL], (480) 200-2914, [EMAIL], [BUSINESS NAME]
 - This will help you input all of the company information faster.
 - Examples:
 - - 1. Type "[MAIN-URL]" exactly then replace with something like "https://signamarketing.com/"
-- - 2. Type "[PHONE]" then replace with "(602)-594-4219". This will be the company number
+- - 2. Type "(480) 200-2914" then replace with "(602)-594-4219". This will be the company number
 
 Step 8: Add CallRail & Analytics to web page
 
